@@ -1,0 +1,9 @@
+{
+  "keys": {
+    "command": {
+      "unbind": [
+        "shift-enter"
+      ]
+    }
+  }
+}
